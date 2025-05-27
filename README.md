@@ -1,19 +1,21 @@
-# 💫 About Me:
-Hi there! 👋 I'm <b>Cole Lenting</b><br>Frontend Developer | UI/UX Designer | Multimedia Specialist<br>Welcome to my GitHub! I'm a passionate ICT graduate from Cape Town, South Africa, specializing in multimedia and web development. Currently pursuing an Advanced Diploma in ICT while exploring the exciting intersection of creativity and technology.<br><br><hr>
+#  Hi there! 👋 I'm Cole Lenting
+### `Frontend Developer` `UI/UX Designer` `Multimedia Specialist`<br>
+Welcome to my GitHub! I'm a passionate ICT graduate from Cape Town, South Africa, specializing in multimedia and web development. Currently pursuing an Advanced Diploma in ICT while exploring the exciting intersection of creativity and technology.<br>
 
-🚀 <b>About Me</b><br>
+## 🚀 About Me
 🎓 Recently completed my Diploma in ICT (Multimedia) at Cape Peninsula University of Technology<br>
 💻 Specializing in frontend development and UI/UX design<br>
 🌱 Currently expanding into backend development and software engineering<br>
 🎨 Passionate about creating user-focused digital experiences<br>
-📍 Based in Cape Town, South Africa<br><br><hr>
+📍 Based in Cape Town, South Africa<br>
 
-💼 <b>Professional Experience</b><br>
-<b>Website Developer at Kamikaze Innovations (Feb - Jul 2024)</b><br>
+## 💼 Professional Experience
+### `Website Developer at Kamikaze Innovations (Feb - Jul 2024)`
 <li>Designed and developed fully customized websites from concept to deployment<br>
 <li>Created comprehensive design systems including color palettes, wireframes, and style guides<br>
-<li>Delivered responsive, functional websites with detailed documentation<br><br>
-<b>Work Integrated Learning at BIIC | Pillar 5 Group (Jul - Sep 2024)</b><br>
+<li>Delivered responsive, functional websites with detailed documentation<br>
+  
+### `Work Integrated Learning at BIIC | Pillar 5 Group (Jul - Sep 2024)`
 <li>Applied academic knowledge in real-world industry settings<br>
 <li>Developed practical skills through cooperative education partnerships<br>
 
