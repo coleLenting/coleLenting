@@ -11,13 +11,13 @@ Welcome to my GitHub! I'm a passionate ICT graduate from Cape Town, South Africa
 
 ## 💼 Professional Experience
 ### `Website Developer at Kamikaze Innovations (Feb - Jul 2024)`
-<li>Designed and developed fully customized websites from concept to deployment<br>
-<li>Created comprehensive design systems including color palettes, wireframes, and style guides<br>
-<li>Delivered responsive, functional websites with detailed documentation<br>
+- Designed and developed fully customized websites from concept to deployment<br>
+- Created comprehensive design systems including color palettes, wireframes, and style guides<br>
+- Delivered responsive, functional websites with detailed documentation<br>
   
 ### `Work Integrated Learning at BIIC | Pillar 5 Group (Jul - Sep 2024)`
-<li>Applied academic knowledge in real-world industry settings<br>
-<li>Developed practical skills through cooperative education partnerships<br>
+- Applied academic knowledge in real-world industry settings<br>
+- Developed practical skills through cooperative education partnerships<br>
 
 
 ## 🌐 Socials:
