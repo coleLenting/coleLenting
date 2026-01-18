@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate ICT graduate from Cape Town, South Africa
 📍 Based in Cape Town, South Africa<br>
 
 ## 💼 Professional Experience
-### `Digital/Data Engineer Associate at CAPACITI (Apr 2025 - Present)`
+### `Digital/Data Engineer Associate at CAPACITI (Apr 2025 - October)`
 - Building expertise in AI, data engineering, and professional development<br>
 - Developing both technical and workplace skills to prepare for real-world industry challenges<br>
 - Gaining hands-on experience in Python, SQL, and data workflows<br>
