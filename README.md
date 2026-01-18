@@ -1,6 +1,6 @@
 #  Hi there! 👋 I'm Cole Lenting
 ### `Frontend Developer` `UI/UX Designer` `Multimedia Specialist`<br>
-Welcome to my GitHub! I'm a passionate ICT graduate from Cape Town, South Africa, specializing in multimedia and web development. Currently pursuing an Advanced Diploma in ICT while exploring the exciting intersection of creativity and technology.<br>
+Welcome to my GitHub! I'm a passionate ICT graduate from Cape Town, South Africa, specializing in multimedia and web development. Completed my Advanced Diploma in ICT, while still exploring the exciting intersection of creativity and technology.<br>
 
 ## 🚀 About Me
 🎓 Recently completed my Diploma in ICT (Multimedia) at Cape Peninsula University of Technology<br>
